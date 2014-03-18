@@ -1,4 +1,4 @@
-merge-sort
+rock-paper-scissor
 ==========
 
 My answer of rock-paper-scissor game, standford course SASS homework part 2. Here
